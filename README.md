@@ -14,10 +14,6 @@ An interactive, full-stack Expense Tracker web application with **user authentic
 ## 🔑 **Test Login Credentials**
 
 > Use the below credentials to log in and test the application:
-
-- **Email**: `sathwikreddys467@gmail.com`  
-- **Password**: `Sathwik@123`
-
 ---
 
 ## 📂 **Project Structure**
@@ -66,7 +62,7 @@ Expense_Tracker/
 ### 🔧 **1. Clone the repository**
 
 
-git clone https://github.com/sathwik789/Expense_Tracker.git
+git clone https://github.com/NallavalliDharma/Expense_Tracker.git
 cd Expense_Tracker
 
 ⚙️ 2. Setup Backend
@@ -125,6 +121,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ✉️ Contact
-Sathwik Reddy
-📧 reddysathwik019@gmail.com
-🔗 LinkedIn
+Nallavalli Dharma
+📧 nallavallidharma@gmail.com
