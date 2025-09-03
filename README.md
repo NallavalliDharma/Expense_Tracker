@@ -11,11 +11,6 @@ An interactive, full-stack Expense Tracker web application with **user authentic
 
 ---
 
-## 🔑 **Test Login Credentials**
-
-> Use the below credentials to log in and test the application:
----
-
 ## 📂 **Project Structure**
 
 Expense_Tracker/
